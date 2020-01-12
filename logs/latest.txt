@@ -1,0 +1,98 @@
+[22:45:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:45:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:45:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:45:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:45:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:45:40] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[22:45:40] [Server thread/INFO]: Loading properties
+[22:45:40] [Server thread/INFO]: Default game type: SURVIVAL
+[22:45:40] [Server thread/INFO]: Generating keypair
+[22:45:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:45:40] [Server thread/INFO]: Using default channel type
+[22:45:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:45:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:45:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:45:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:45:41] [Server thread/INFO]: Preparing level "world"
+[22:45:41] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:45:41] [Server thread/INFO]: Loaded 6 recipes
+[22:45:42] [Server thread/INFO]: Loaded 825 advancements
+[22:45:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:45:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:48] [Server thread/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:46:18] [Server-Worker-2/INFO]: Preparing spawn area: 94%
+[22:46:18] [Server-Worker-2/INFO]: Preparing spawn area: 94%
+[22:46:18] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[22:46:18] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[22:46:18] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[22:46:18] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[22:46:18] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[22:46:18] [Server-Worker-2/INFO]: Preparing spawn area: 94%
+[22:46:18] [Server-Worker-2/INFO]: Preparing spawn area: 94%
+[22:46:18] [Server-Worker-2/INFO]: Preparing spawn area: 94%
+[22:46:18] [Server-Worker-2/INFO]: Preparing spawn area: 94%
+[22:46:18] [Server-Worker-2/INFO]: Preparing spawn area: 94%
+[22:46:19] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[22:46:19] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[22:46:20] [Server-Worker-1/INFO]: Preparing spawn area: 95%
+[22:46:20] [Server thread/INFO]: Preparing spawn area: 98%
+[22:46:20] [Server thread/INFO]: Time elapsed: 36913 ms
+[22:46:20] [Server thread/INFO]: Done (39.922s)! For help, type "help"
+[22:46:21] [Server thread/INFO]: _Sunflower_[/192.168.1.53:50368] logged in with entity id 243 at (191.69999998807907, 67.0, -157.30000001192093)
+[22:46:22] [Server thread/INFO]: _Sunflower_ joined the game
